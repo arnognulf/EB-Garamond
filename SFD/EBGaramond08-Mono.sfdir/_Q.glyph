@@ -1,0 +1,43 @@
+StartChar: Q
+Encoding: 81 81 49
+Width: 540
+VWidth: 982
+Flags: HWO
+HStem: -320 70<768.296 1045.75> 560 45<190.088 327.301>
+VStem: 4.63048 94.416<182.744 393.544> 433.717 94.416<190.094 405.055> 1187.36 59.01<-161.215 -88.1427>
+AnchorPoint: "top_accent" 278.605 670 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+284.507 605 m 4
+ 418.543 605 528.134 470 528.134 311 c 4
+ 528.134 207 493.57 121 427.816 64 c 4
+ 383.138 25 370.492 19 370.492 3 c 4
+ 370.492 -29 483.454 -106 524.762 -126 c 4
+ 687.461 -206 775.976 -250 933.616 -250 c 4
+ 1081.98 -250 1151.95 -238 1187.36 -116 c 4
+ 1192.42 -98 1205.91 -83 1219.39 -83 c 4
+ 1238.78 -83 1246.37 -101 1246.37 -118 c 4
+ 1246.37 -246 1035.62 -320 915.07 -320 c 4
+ 688.304 -320 616.648 -268 469.967 -195 c 4
+ 401.684 -160 350.261 -120 292.937 -85 c 4
+ 246.571 -58 198.521 -26 158.057 1 c 4
+ 69.541 62 4.63086 152 4.63086 281 c 4
+ 4.63086 461 134.452 605 284.507 605 c 4
+99.0469 325 m 4
+ 99.0469 181 152.155 21 273.548 21 c 4
+ 312.325 21 354.476 55 383.138 89 c 4
+ 423.602 137 433.718 201 433.718 276 c 4
+ 433.718 421 369.649 560 255.002 560 c 4
+ 158.899 560 99.0469 439 99.0469 325 c 4
+EndSplineSet
+Substitution2: "Single Substitution lookup 61 subtable" Q.low
+Substitution2: "Single Substitution lookup 60 subtable" Q.short
+Substitution2: "Single Substitution lookup 59 subtable" Q.long
+Substitution2: "Single Substitution lookup 58 subtable" Q.long
+Substitution2: "c2sc subtable" Q.sc
+Substitution2: "sups subtable" Q.sups
+Substitution2: "sinf subtable" Q.sinf
+Substitution2: "ordn subtable" Q.ordn
+Substitution2: "subs subtable" Q.subs
+EndChar
