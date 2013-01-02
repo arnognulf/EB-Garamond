@@ -20,3 +20,8 @@ python monospaci.py/monospaci.py  -leadingscale $SCALE -psname "EBGaramond8MonoH
 
 rm *Output.ttf
 fontlint *.ttf
+mv EBGaramond8Mono.ttf build/
+mv EBGaramond8MonoHalfLead.ttf build/
+mv EBGaramond12Mono.ttf build/
+mv EBGaramond12MonoHalfLead.ttf build/
+
